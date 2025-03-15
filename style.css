@@ -25,3 +25,15 @@
 .profile-img {
   height: 100px;
 }
+.muhamed{
+  color: white;
+}
+
+body {
+  background-color: Canvas;
+  color: CanvasText;
+  color-scheme: light dark;
+}
+.card {
+  background-color: black !important; /* Change to your desired color */
+}
